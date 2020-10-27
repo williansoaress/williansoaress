@@ -1,8 +1,8 @@
 # Willian Soares da Silva :computer:
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/williansoaress)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansoaresdasilva/)](https://www.linkedin.com/in/williansoaresdasilva/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dasilva.williansoares@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@williansoaress-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/williansoaress)](https://twitter.com/williansoaress) 
+[![Linkedin Badge](https://img.shields.io/badge/-Willian%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williansoaresdasilva/)](https://www.linkedin.com/in/williansoaresdasilva/) 
+[![Gmail Badge](https://img.shields.io/badge/-dasilva.williansoares@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dasilva.williansoares@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
 <!--
