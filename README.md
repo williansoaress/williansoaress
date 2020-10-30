@@ -8,7 +8,7 @@ Full Stack Developer at [Hospital Moinhos de Vento](https://www.hospitalmoinhos.
 
 Coding is about to make dreams become true!
 
-I love programming and learning new skills that help me to develop aplications using the best practices. 
+I love programming and learning new skills that help me to develop applications using the best practices. 
 
 "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them." - Andrew Hunt
 
